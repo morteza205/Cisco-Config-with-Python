@@ -1,0 +1,4 @@
+This Python script can config the Cisco Or other devices that are telnet accessable.
+This script is just an idea! You must write your own config in it.
+Foe example I put the config for make interface gigabit 0/1 and 0/2 in trunk mode.
+The advantage of this script is that uses thread lib and it is real fast!
